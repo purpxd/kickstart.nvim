@@ -354,6 +354,7 @@ require('lazy').setup({
   require 'purp.plugins.treesitter', -- Syntax highlighting
   require 'purp.plugins.neo-tree', -- Filesystem browser
   require 'purp.plugins.oil', -- Quick File Explorer
+  require 'purp.plugins.comment'
   -- require 'purp.plugins.debug',
   -- require 'purp.plugins.indent_line',
   -- require 'purp.plugins.lint',
